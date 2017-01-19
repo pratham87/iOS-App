@@ -1,2 +1,1 @@
-* Simple Calculator App
-* [Source](https://www.weheartswift.com/getting-started-with-ios-programming/)
+* Sample iOS App to learn iOS development, swift 3 and xcode
